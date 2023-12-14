@@ -10,5 +10,7 @@ the links to The Plan (my notes for where I want to take this project), The List
 and a video link to the simple structural program I've completed by the end of this first semester.
 
 The Plan: https://docs.google.com/document/d/1mkI28uu0RST_TDH7TQzwKILF6MuhARxNd9arUUJZ_1w/edit?usp=sharing 
+
 The List: https://docs.google.com/document/d/1BjkBn30-6yvxQWdJWk0dqO6ALxXei0IPW8e5VHXk62k/edit?usp=sharing
+
 The Video: 
